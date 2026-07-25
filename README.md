@@ -56,6 +56,8 @@ src/
 
 Deploy easily to [Vercel](https://vercel.com/) — connect the GitHub repository and every push to `main` will trigger a production build.
 
+_Last updated during the initial Vercel setup._
+
 ---
 
 © Veraloom. All rights reserved.
